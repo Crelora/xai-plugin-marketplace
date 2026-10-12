@@ -647,8 +647,8 @@
       }
     },
     "onelence": {
-      "sha": "dd8a9139002844c4510b01d794d74322631f771e",
-      "version": "1.0.0",
+      "sha": "ce99d90bef0eb8f08c58c523792eb7f8f766f16b",
+      "version": "1.0.1",
       "components": {
         "mcpServers": [
           {

@@ -403,7 +403,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Crelora/onelence-ai-plugins.git",
-        "sha": "dd8a9139002844c4510b01d794d74322631f771e",
+        "sha": "ce99d90bef0eb8f08c58c523792eb7f8f766f16b",
         "path": "plugins/onelence"
       },
       "homepage": "https://onelence.com",
